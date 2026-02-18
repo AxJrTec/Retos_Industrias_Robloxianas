@@ -1,0 +1,4 @@
+[console_scripts]
+signal_gen = signal_processing.signal_gen:main
+signal_proc = signal_processing.signal_proc:main
+

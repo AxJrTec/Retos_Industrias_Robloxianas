@@ -1,0 +1,5 @@
+  File "/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/process.py", line 5
+    class 
+          ^
+SyntaxError: invalid syntax
+

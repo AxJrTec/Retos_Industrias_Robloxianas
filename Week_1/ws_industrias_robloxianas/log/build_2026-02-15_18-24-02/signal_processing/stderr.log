@@ -1,0 +1,5 @@
+  File "/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/signal_proc.py", line 19
+    self.get_logger().info('Tiempo recibido "%s"' % msg.data:.2f)
+                                                              ^
+SyntaxError: invalid decimal literal
+

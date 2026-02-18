@@ -1,0 +1,31 @@
+[0.708s] Invoking command in '/home/reiv/workspace/MR_week1/Challenge_1/src/signal_processing': PYTHONPATH=/home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/signal_processing build --build-base /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build install --record /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/install.log --single-version-externally-managed install_data
+[0.935s] running egg_info
+[0.935s] writing ../../build/signal_processing/signal_processing.egg-info/PKG-INFO
+[0.936s] writing dependency_links to ../../build/signal_processing/signal_processing.egg-info/dependency_links.txt
+[0.937s] writing entry points to ../../build/signal_processing/signal_processing.egg-info/entry_points.txt
+[0.937s] writing requirements to ../../build/signal_processing/signal_processing.egg-info/requires.txt
+[0.937s] writing top-level names to ../../build/signal_processing/signal_processing.egg-info/top_level.txt
+[0.938s] reading manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+[0.939s] writing manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+[0.939s] running build
+[0.939s] running build_py
+[0.940s] copying signal_processing/process.py -> /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing
+[0.940s] copying signal_processing/signal_generator.py -> /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing
+[0.941s] running install
+[0.941s] running install_lib
+[0.942s] copying /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing/process.py -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing
+[0.942s] copying /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing/signal_generator.py -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing
+[0.943s] byte-compiling /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/process.py to process.cpython-310.pyc
+[0.943s]   File "/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/process.py", line 5
+[0.943s]     class 
+[0.943s]           ^
+[0.943s] SyntaxError: invalid syntax
+[0.943s] 
+[0.943s] byte-compiling /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/signal_generator.py to signal_generator.cpython-310.pyc
+[0.943s] running install_data
+[0.943s] running install_egg_info
+[0.945s] removing '/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info' (and everything under it)
+[0.945s] Copying ../../build/signal_processing/signal_processing.egg-info to /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info
+[0.946s] running install_scripts
+[0.967s] writing list of installed files to '/home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/install.log'
+[0.988s] Invoked command in '/home/reiv/workspace/MR_week1/Challenge_1/src/signal_processing' returned '0': PYTHONPATH=/home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/signal_processing build --build-base /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build install --record /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/install.log --single-version-externally-managed install_data

@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/signal_processing/signal_processing.egg-info/PKG-INFO
+writing dependency_links to ../../build/signal_processing/signal_processing.egg-info/dependency_links.txt
+writing entry points to ../../build/signal_processing/signal_processing.egg-info/entry_points.txt
+writing requirements to ../../build/signal_processing/signal_processing.egg-info/requires.txt
+writing top-level names to ../../build/signal_processing/signal_processing.egg-info/top_level.txt
+reading manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+writing manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+running build
+running build_py
+copying signal_processing/process.py -> /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing
+copying signal_processing/signal_generator.py -> /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing
+running install
+running install_lib
+copying /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing/process.py -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing
+copying /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing/signal_generator.py -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing
+byte-compiling /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/process.py to process.cpython-310.pyc
+  File "/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/process.py", line 5
+    class 
+          ^
+SyntaxError: invalid syntax
+
+byte-compiling /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/signal_generator.py to signal_generator.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/signal_processing/signal_processing.egg-info to /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/install.log'

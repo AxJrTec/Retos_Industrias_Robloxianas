@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/signal_processing/signal_processing.egg-info
+writing ../../build/signal_processing/signal_processing.egg-info/PKG-INFO
+writing dependency_links to ../../build/signal_processing/signal_processing.egg-info/dependency_links.txt
+writing entry points to ../../build/signal_processing/signal_processing.egg-info/entry_points.txt
+writing requirements to ../../build/signal_processing/signal_processing.egg-info/requires.txt
+writing top-level names to ../../build/signal_processing/signal_processing.egg-info/top_level.txt
+writing manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+reading manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+writing manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build
+creating /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib
+creating /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing
+copying signal_processing/__init__.py -> /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing
+running install
+running install_lib
+creating /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing
+copying /home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/build/lib/signal_processing/__init__.py -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing
+byte-compiling /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/share/ament_index
+creating /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/share/ament_index/resource_index
+creating /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/share/ament_index/resource_index/packages
+copying resource/signal_processing -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/share/ament_index/resource_index/packages
+copying package.xml -> /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/share/signal_processing
+running install_egg_info
+Copying ../../build/signal_processing/signal_processing.egg-info to /home/reiv/workspace/MR_week1/Challenge_1/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/reiv/workspace/MR_week1/Challenge_1/build/signal_processing/install.log'
