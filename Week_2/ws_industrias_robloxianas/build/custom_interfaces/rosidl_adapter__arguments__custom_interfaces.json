@@ -1,0 +1,6 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/reiv/workspace/MR_week2/Challenge_2/src/custom_interfaces:srv/SetProcessBool.srv"
+  ]
+}
