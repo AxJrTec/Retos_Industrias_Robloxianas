@@ -42,14 +42,13 @@ def create_group(group_name, signal_type):
             emulate_tty=True,
             output='screen',
             parameters=[{
-                'kp': 0.82,
-                'ki': 23.75,
+                'kp': 0.576,
+                'ki': 13.067,
                 'kd': 0.0,
                 'Ts': 0.01,
             }]
         ),
     ])
-
 
 def generate_launch_description():
 

@@ -8,8 +8,8 @@ class Controller(Node):
         super().__init__('controller')
 
         #Parametros
-        self.declare_parameter('kp', 0.82)
-        self.declare_parameter('ki', 23.75)
+        self.declare_parameter('kp', 0.576)
+        self.declare_parameter('ki', 13.067)
         self.declare_parameter('kd', 0.0)
         self.declare_parameter('Ts', 0.01) #Tiempo de muestreo 
 
