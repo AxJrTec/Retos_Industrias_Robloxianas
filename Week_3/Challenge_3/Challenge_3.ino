@@ -59,14 +59,6 @@ void set_motor(float cmd)
   if (cmd > CMD_MAX) cmd = CMD_MAX;
   if (cmd < CMD_MIN) cmd = CMD_MIN;
 
-  // Zona muerta
-  if (fabs(cmd) < 0.05) {
-    digitalWrite(IN1_PIN, LOW);
-    digitalWrite(IN2_PIN, LOW);
-    ledcWrite(PWM_CHNL, 0);
-    return;
-  }
-
   // Dirección
   if (cmd > 0) {
     digitalWrite(IN1_PIN, HIGH);
