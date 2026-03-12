@@ -1,0 +1,22 @@
+[0.556s] Invoking command in '/home/reiv/workspace/RetoFinal/ros/src/motor_input': PYTHONPATH=/home/reiv/workspace/RetoFinal/ros/build/motor_input/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reiv/workspace/RetoFinal/ros/install/motor_input/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_input build --build-base /home/reiv/workspace/RetoFinal/ros/build/motor_input/build install --record /home/reiv/workspace/RetoFinal/ros/build/motor_input/install.log --single-version-externally-managed install_data
+[0.717s] running egg_info
+[0.718s] writing ../../build/motor_input/motor_input.egg-info/PKG-INFO
+[0.718s] writing dependency_links to ../../build/motor_input/motor_input.egg-info/dependency_links.txt
+[0.718s] writing entry points to ../../build/motor_input/motor_input.egg-info/entry_points.txt
+[0.718s] writing requirements to ../../build/motor_input/motor_input.egg-info/requires.txt
+[0.718s] writing top-level names to ../../build/motor_input/motor_input.egg-info/top_level.txt
+[0.719s] reading manifest file '../../build/motor_input/motor_input.egg-info/SOURCES.txt'
+[0.720s] writing manifest file '../../build/motor_input/motor_input.egg-info/SOURCES.txt'
+[0.720s] running build
+[0.720s] running build_py
+[0.720s] running install
+[0.720s] running install_lib
+[0.721s] running install_data
+[0.721s] copying launch/motor_input_launch.py -> /home/reiv/workspace/RetoFinal/ros/install/motor_input/share/motor_input/launch
+[0.721s] running install_egg_info
+[0.722s] removing '/home/reiv/workspace/RetoFinal/ros/install/motor_input/lib/python3.10/site-packages/motor_input-0.0.0-py3.10.egg-info' (and everything under it)
+[0.722s] Copying ../../build/motor_input/motor_input.egg-info to /home/reiv/workspace/RetoFinal/ros/install/motor_input/lib/python3.10/site-packages/motor_input-0.0.0-py3.10.egg-info
+[0.723s] running install_scripts
+[0.738s] Installing set_point script to /home/reiv/workspace/RetoFinal/ros/install/motor_input/lib/motor_input
+[0.738s] writing list of installed files to '/home/reiv/workspace/RetoFinal/ros/build/motor_input/install.log'
+[0.756s] Invoked command in '/home/reiv/workspace/RetoFinal/ros/src/motor_input' returned '0': PYTHONPATH=/home/reiv/workspace/RetoFinal/ros/build/motor_input/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reiv/workspace/RetoFinal/ros/install/motor_input/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_input build --build-base /home/reiv/workspace/RetoFinal/ros/build/motor_input/build install --record /home/reiv/workspace/RetoFinal/ros/build/motor_input/install.log --single-version-externally-managed install_data
